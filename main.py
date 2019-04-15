@@ -54,4 +54,3 @@ def post_update(id):
         post = post_store.get_by_id(id)
         return render_template('post_update.html',post=post)        
 
-app.run()
