@@ -116,16 +116,16 @@ article p {
 }
 
 .btn-section {
-    color: #999;
+    color: rgb(88, 76, 190);
 }
 
 .btn-section a {
-    color: #0094ee;
+    color: #a0bfd3;
 }
 
 #add-section{
     padding: 40px;
 }
 #update-section{
-    padding: 50px;
+    padding: 80px;
 }
